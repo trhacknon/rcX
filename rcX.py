@@ -1,7 +1,7 @@
 # coding=utf8
 __Author__ = 'FlyfishSec'
 __Version__ = 'v0.1.0'
-__SITE__ = 'https://github.com/FlyfishSec/rcX'
+__SITE__ = 'https://github.com/trhacknon/rcX'
 __Description__ = ''''''
 
 __Release_Notes__ = '''
