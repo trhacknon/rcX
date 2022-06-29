@@ -5,7 +5,7 @@
 [![GitHub downloads](https://img.shields.io/github/downloads/trhacknon/rcX/total?color=cyan)](https://github.com/trhacknon/rcX/releases)
 [![License](https://img.shields.io/badge/license-GPLv2-red.svg?color=green)](https://cdn.rawgit.com/trhacknon/rcX/main/LICENSE)
 # [<img width="80" src="https://cdn.rawgit.com/trhacknon/rcX/main/rcX-png/logo.png"/>](https://github.com/trhacknon/rcX/releases)
-## [rcxonline.cf](http://stokndrop.cf)/[rcxonline.ml](https://rcxonline.ml)
+## [stokndrop.cf](http://stokndrop.cf)/[rcxonline.ml](https://rcxonline.ml)
 
 ![rcX](https://cdn.rawgit.com/trhacknon/rcX/main/rcX-png/rcxonline.gif "rcX")
 
