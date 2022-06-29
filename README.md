@@ -101,4 +101,3 @@ Use rcX as a server then you can use it with your team or friends.
 
 *Dogecoin*: DBQATuB7t4wk56dwFqcGdqQtY8BSjL77if
 
-
