@@ -1,5 +1,5 @@
 # coding=utf8
-__Author__ = 'FlyfishSec'
+__Author__ = 'trhacknon'
 __Version__ = 'v0.1.0'
 __SITE__ = 'https://github.com/trhacknon/rcX'
 __Description__ = ''''''
